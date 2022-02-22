@@ -74,3 +74,4 @@ if (event.getModifierState("CapsLock")) {
     text.style.display = "none"
   }
 });
+
